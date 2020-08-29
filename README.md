@@ -8,3 +8,4 @@ Un blog increíble para el curso de Git y GitHub de Platzi
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increíble Platzi Team 
+* Incluye ejemplo en Windows, Linux y Mac
